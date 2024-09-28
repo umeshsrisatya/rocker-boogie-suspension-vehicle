@@ -38,12 +38,6 @@ While working on this project, I learned:
 - Designing **simple circuits** and troubleshooting electrical components.
 - Building a mechanically sound suspension system and understanding its real-world applications.
 
-## Future Improvements
-
-In the future, I would like to:
-- Implement **autonomous navigation** using advanced sensors like LIDAR or Ultrasonic sensors.
-- Improve the efficiency of the motor control using **Pulse Width Modulation (PWM)**.
-- Integrate wireless control through Bluetooth or Wi-Fi.
 
 ## Technologies Used
 
