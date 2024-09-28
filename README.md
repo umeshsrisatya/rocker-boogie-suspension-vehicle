@@ -30,8 +30,7 @@ The Arduino is programmed to control the motors and handle sensor inputs, allowi
 
 Here is an image of the vehicle in action:
 
-![sample_output.png](https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/sample_output.png)
-
+<img src="https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/sample_output.png" alt="Sample Output" width="500px">
 ## Lessons Learned
 
 While working on this project, I learned:
