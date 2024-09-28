@@ -1,10 +1,8 @@
 //Arduino Bluetooth Controlled Car
 //Before uploading the code you have to install the necessary library
-//Note - Disconnect the Bluetooth Module before hiting the upload button otherwise you'll get compilation error message.
-//AFMotor Library https://www.mediafire.com/file/vjx3t99oj3y5muu/Adafruit-Motor-Shield-library-master.zip/file
-//After downloading the library open Arduino IDE >> go to sketch >> Include Libray >> ADD. ZIP Libray >> Select the downloaded 
-//ZIP File >> Open it >> Done
-//Now You Can Upload the Code without any problem but make sure the bt module isn't connected with Arduino while uploading code
+//Note - Disconnect the Bluetooth Module before hitting the upload button otherwise you'll get a compilation error message.
+
+//Now You Can Upload the Code without any problem but make sure the Bluetooth module isn't connected to Arduino while uploading the code
 
 #include <AFMotor.h>
 
@@ -22,10 +20,10 @@ void setup()
 }
 
 void loop(){
-  if(Serial.available() > 0){ 
+  if(Serial.available() > 0){  // for the stop we intialize some number greater than 0 it triggers the Stop() function    
     command = Serial.read(); 
     Stop(); //initialize with motors stoped
-    //Change pin mode only if new command is different from previous.   
+    //Change pin mode only if the new command is different from previous one.   
     //Serial.println(command);
     switch(command){
     case 'F':  
