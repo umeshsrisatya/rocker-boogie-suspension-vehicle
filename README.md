@@ -16,7 +16,7 @@ The **Rocker Bogie Suspension Vehicle** is a type of rover widely used in planet
 ## Circuit Diagram
 
 Here is a basic schematic of the circuit used for the vehicle:
-<img src="https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/circuit-diagram.png" alt="Sample Output" width="500px" border="10px solid blue">
+<img src="https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/circuit-diagram.png" alt="Sample Output" width="500px" border="10px">
 ## Working Mechanism
 
 The **Rocker Bogie Suspension System** works by:
