@@ -4,7 +4,8 @@ This project was created during my second year of B.Tech to explore the mechanic
 
 ## Project Overview
 
-![WORKING.png](https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/WORKING.png)
+<img src="https://github.com/umeshsrisatya/rocker-boogie-suspension-vehicle/blob/main/WORKING.png" alt="Sample Output" width="500px">
+
 The **Rocker Bogie Suspension Vehicle** is a type of rover widely used in planetary exploration, such as on NASA’s Mars rovers. The vehicle’s suspension system allows it to traverse rough terrain, and it is commonly used in robotics competitions and learning projects.
 
 ### Key Features:
